@@ -28,8 +28,8 @@ RSVP logic is implemented using atomic MongoDB `findOneAndUpdate` operations to 
 
 ## Live URLs
 - Backend: https://mini-event-platform-cz20.onrender.com
-- Frontend: (will be added after frontend deployment)
-
+- Frontend: https://mini-event-platform-three.vercel.app
+  
 ## How to Run Locally
 
 ### Backend
